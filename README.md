@@ -1,5 +1,4 @@
-<div align='center'>
- ### Hi there 👋 I'm RAJNISH KUMAR SHARMA
+### <div align='center'> Hi there 👋 I'm RAJNISH KUMAR SHARMA
 
 **A passionate full stack developer from India**
 </div>
