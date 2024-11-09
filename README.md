@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: ...
   
-###Languages and Tools:
+### Languages and Tools:
 
 <a href="https://www.w3schools.com/python/default.asp">![image](https://github.com/user-attachments/assets/35277a05-1b7d-4417-b8ca-9a7014ac7ca1)
 </a>
