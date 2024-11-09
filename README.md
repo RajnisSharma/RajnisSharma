@@ -1,4 +1,4 @@
-##  Hi there 👋 I'm RAJNISH KUMAR SHARMA 
+## <div align='center'> Hi there 👋 I'm RAJNISH KUMAR SHARMA </div>
 
 **<div align='center'> A passionate full stack developer from India </div>**
 
