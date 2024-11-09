@@ -1,4 +1,4 @@
-## Hi there 👋 I'm RAJNISH KUMAR SHARMA
+## <center> Hi there 👋 I'm RAJNISH KUMAR SHARMA </center>
 
 **A passionate full stack developer from India**
 
