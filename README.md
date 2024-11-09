@@ -1,7 +1,7 @@
-### <div align='center'> Hi there 👋 I'm RAJNISH KUMAR SHARMA
+##  Hi there 👋 I'm RAJNISH KUMAR SHARMA 
 
-**A passionate full stack developer from India**
-</div>
+**<div align='center'> A passionate full stack developer from India </div>**
+
 Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on ... -->
