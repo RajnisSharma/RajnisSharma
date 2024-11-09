@@ -17,5 +17,5 @@ Here are some ideas to get you started:
   
 ### Languages and Tools:
 
-<a href="https://www.w3schools.com/python/default.asp">![image](https://github.com/user-attachments/assets/35277a05-1b7d-4417-b8ca-9a7014ac7ca1)
-</a>
+<a href="https://www.w3schools.com/python/default.asp">![image](https://github.com/user-attachments/assets/0b2cca56-3ab8-42cc-b017-7f591e8471be)</a>
+<a href="https://www.jetbrains.com/pycharm/editions/">https://www.jetbrains.com/</a>
