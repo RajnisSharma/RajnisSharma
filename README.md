@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/python/default.asp">![image](https://github.com/user-attachments/assets/3db7cc52-7759-41a3-a66b-10316ab5a065)</a>
 <a href="https://www.jetbrains.com/pycharm/editions/">![image](https://github.com/user-attachments/assets/d3e1ba38-591f-445f-8654-8f33e328f205)</a>
 <a href="https://code.visualstudio.com/download">![image](https://github.com/user-attachments/assets/de7bc12a-5c0b-4b89-92d3-121b3a845668)</a>
+<a href="https://code.react.dev/download">![image](https://github.com/user-attachments/assets/[de7bc12a-5c0b-4b89-92d3-121b3a845668](https://react.dev/images/brand/logo_dark.svg))</a>
