@@ -27,7 +27,7 @@ Below are the technologies I work with and/or am learning. Click a badge to visi
 
 * [![Python](https://img.shields.io/badge/Python-3670A0?style=flat\&logo=python\&logoColor=white)](https://www.python.org/)
 * [![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)](https://www.djangoproject.com/)
-* [![REST API](https://img.shields.io/badge/REST%20API-API?style=flat\&logo=none)](https://restfulapi.net/)
+* [![Django REST API](https://img.shields.io/badge/REST%20API-API?style=flat\&logo=none)](https://www.django-rest-framework.org/)
 * [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat\&logo=fastapi\&logoColor=white)](https://fastapi.tiangolo.com/)
 * [![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-lightgrey)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
 * [![LangChain](https://img.shields.io/badge/LangChain-python?style=flat\&logo=python\&logoColor=white)](https://python.langchain.com/)
