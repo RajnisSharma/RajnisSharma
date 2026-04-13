@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Hi there 👋 I'm <strong>RAJNISH KUMAR SHARMA</strong></h1>
-  <p><em>Full Stack Python Developer | AI/GenAI Enthusiast | Django • React • FastAPI</em></p>
+  <p><em>Full Stack Python Developer | AI/GenAI Enthusiast | Django • React • FastAPI • LLM • RAG</em></p>
 
-  <a href="https://rajnissharma.github.io/My-Portfolio-/">
+  <a href="https://rajnissharma.github.io/new-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
   </a>
   <a href="mailto:rajnishkumar81145@gmail.com">
@@ -59,7 +59,7 @@ Technologies I work with and have hands-on experience in. Click a badge to view 
 * **Personal Finance Manager** — Full-stack Django + React application for income, expense, budget, and transaction management with authentication and CRUD operations.
 * **Library Management System** — Django and MySQL-based system for book issue/return, inventory tracking, and user management.
 * **Personal Portfolio** — Responsive portfolio website built with **HTML, CSS, Bootstrap, JavaScript, and React**.
-* **RAG Notes Assistant** — AI-powered document Q&A assistant using **LLMs, embeddings, vector search, and LangChain**.
+* **RAG AI Assistant** — AI-powered document Q&A assistant using **LLMs, embeddings, vector search, and LangChain**.
 
 ---
 
@@ -75,7 +75,7 @@ Technologies I work with and have hands-on experience in. Click a badge to view 
 ## 📫 Contact
 
 * Email: **rajnishkumar81145@gmail.com**
-* Portfolio: **https://rajnissharma.github.io/My-Portfolio-/**
+* Portfolio: **https://rajnissharma.github.io/new-portfolio/**
 * GitHub: **https://github.com/rajnissharma**
 
 ---
