@@ -1,29 +1,36 @@
 <div align="center">
   <h1>Hi there 👋 I'm <strong>RAJNISH KUMAR SHARMA</strong></h1>
-  <p><em>A passionate Full Stack Developer from India</em></p>
+  <p><em>Full Stack Python Developer | AI/GenAI Enthusiast | Django • React • FastAPI</em></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge\&logo=google-chrome)](https://rajnissharma.github.io/My-Portfolio-/)
-[![Email](https://img.shields.io/badge/Email-rajnishkumar81145%40gmail.com-c14438?style=for-the-badge\&logo=gmail)](mailto:rajnishkumar81145@gmail.com)
-
+  <a href="https://rajnissharma.github.io/My-Portfolio-/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="mailto:rajnishkumar81145@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/rajnissharma">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I’m **Rajnish Kumar Sharma**, a motivated Full Stack AI Developer specializing in building responsive and user-friendly web applications. I enjoy solving problems with clean, maintainable code and learning modern tools and best practices in web development and DevOps.
+I am a Full Stack Python Developer focused on building scalable web applications, REST APIs, and AI-powered solutions. I enjoy turning ideas into clean, user-friendly, and production-ready products using Django, React, FastAPI, and modern AI tools.
 
-* 🔭 I’m currently learning **DevOps** and working on strengthening deployment pipelines.
-* 🌱 I’m expanding my knowledge in **RAG (Retrieval-Augmented Generation)**, **LangChain**, and production-ready **LLMs** for intelligent apps.
-* 🤔 I’m looking for help and mentorship with **Python** — especially advanced backend patterns, APIs, and ML integration.
-* 💬 Ask me about **Python**, **Django**, and **React JS**.
-* 📫 Reach me: **[rajnishkumar81145@gmail.com](mailto:rajnishkumar81145@gmail.com)**
+* 🔭 Building full-stack applications with **Python, Django, React, REST APIs, and Docker**
+* 🌱 Expanding my skills in **RAG, LangChain, vector databases, and production-grade LLM applications**
+* ⚙️ Interested in **backend architecture, API design, authentication, automation, and deployment**
+* 💬 Ask me about **Python, Django, React JS, REST APIs, and GenAI workflows**
+* 📫 Reach me at **rajnishkumar81145@gmail.com**
 
 ---
 
 ## 🛠️ Languages & Tools
 
 Technologies I work with and have hands-on experience in. Click a badge to view the official documentation.
+
 <p align="left">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" /></a>
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" /></a>
@@ -49,39 +56,34 @@ Technologies I work with and have hands-on experience in. Click a badge to view 
 
 ## ✨ Featured Projects
 
-> A short list of projects demonstrates how I apply tools and best practices.
-
-* **Personal Portfolio** — A responsive portfolio built with **HTML5, CSS3, Bootstrap5, JavaScript, and React**. (Live: [My Portfolio](https://rajnissharma.github.io/My-Portfolio-/))
-* **Personal Finance Manager** — Django + REST APIs + React frontend for tracking income and expenses; includes authentication and CRUD operations.
-* **Library Management System** — Django, MySQL, Bootstrap-based application for managing book inventory and issue/return workflows.
-* **RAG-powered Notes Assistant (WIP)** — Using embeddings, vector store, and LangChain to build a question-answering assistant over uploaded documents.
+* **Personal Finance Manager** — Full-stack Django + React application for income, expense, budget, and transaction management with authentication and CRUD operations.
+* **Library Management System** — Django and MySQL-based system for book issue/return, inventory tracking, and user management.
+* **Personal Portfolio** — Responsive portfolio website built with **HTML, CSS, Bootstrap, JavaScript, and React**.
+* **RAG Notes Assistant** — AI-powered document Q&A assistant using **LLMs, embeddings, vector search, and LangChain**.
 
 ---
 
-## 📚 Learning Roadmap
+## 📚 What I Am Building Next
 
-I like to keep a compact roadmap for continuous learning:
-
-1. Strengthen **DevOps** fundamentals (CI/CD, Docker, Kubernetes)
-2. Productionalize **FastAPI** + **Gunicorn/Uvicorn** deployments
-3. Build **RAG** systems using embeddings, LangChain, and vector DBs
-4. Explore **LLM** fine-tuning and prompt engineering patterns
+* Stronger **backend architecture** with Django and FastAPI
+* Production-ready **CI/CD and Docker-based deployments**
+* Advanced **RAG pipelines** for document intelligence
+* Better **LLM application design** with prompt engineering and retrieval workflows
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Contact
 
-* Email: **[rajnishkumar81145@gmail.com](mailto:rajnishkumar81145@gmail.com)**
-* Portfolio: [https://rajnissharma.github.io/My-Portfolio-/](https://rajnissharma.github.io/My-Portfolio-/)
-* GitHub: [rajnissharma](https://github.com/rajnissharma)
-
----
-
-## 🌟 Fun Facts
-
-* I love building small utilities that save time and automate repetitive tasks.
-* I enjoy learning by doing — building projects and iterating quickly.
+* Email: **rajnishkumar81145@gmail.com**
+* Portfolio: **https://rajnissharma.github.io/My-Portfolio-/**
+* GitHub: **https://github.com/rajnissharma**
 
 ---
 
-<p align="center">Built with ❤️ using HTML, CSS, JavaScript, React, Django, and Python.</p>
+## 🌟 Additional Highlights
+
+* I enjoy building practical tools that solve real problems.
+* I focus on clean code, readable structure, and user-friendly design.
+* I learn best by building projects and improving them step by step.
+
+<p align="center">Built with ❤️ using Python, Django, React, FastAPI, and modern AI tools.</p>
