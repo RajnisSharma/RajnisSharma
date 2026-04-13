@@ -23,7 +23,7 @@ I’m **Rajnish Kumar Sharma**, a motivated Full Stack Developer specializing in
 
 ## 🛠️ Languages & Tools
 
-Below are the technologies I work with and/or am learning. Click a badge to visit the official docs.
+Technologies I work with and have hands-on experience in. Click a badge to view the official documentation.
 <p align="left">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" /></a>
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" /></a>
