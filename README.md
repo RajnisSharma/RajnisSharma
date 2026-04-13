@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I’m **Rajnish Kumar Sharma**, a motivated Full Stack Developer specializing in building responsive and user-friendly web applications. I enjoy solving problems with clean, maintainable code and learning modern tools and best practices in web development and DevOps.
+I’m **Rajnish Kumar Sharma**, a motivated Full Stack AI Developer specializing in building responsive and user-friendly web applications. I enjoy solving problems with clean, maintainable code and learning modern tools and best practices in web development and DevOps.
 
 * 🔭 I’m currently learning **DevOps** and working on strengthening deployment pipelines.
 * 🌱 I’m expanding my knowledge in **RAG (Retrieval-Augmented Generation)**, **LangChain**, and production-ready **LLMs** for intelligent apps.
