@@ -24,9 +24,6 @@ I’m **Rajnish Kumar Sharma**, a motivated Full Stack Developer specializing in
 ## 🛠️ Languages & Tools
 
 Below are the technologies I work with and/or am learning. Click a badge to visit the official docs.
-
-## 🛠️ Languages & Tools
-
 <p align="left">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" /></a>
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" /></a>
@@ -47,29 +44,6 @@ Below are the technologies I work with and/or am learning. Click a badge to visi
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /></a>
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=green" /></a>
 </p>
-
-
-
-
-* [![Python](https://img.shields.io/badge/Python-3670A0?style=flat\&logo=python\&logoColor=white)](https://www.python.org/)
-* [![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)](https://www.djangoproject.com/)
-* [![Django REST API](https://img.shields.io/badge/REST%20API-API?style=flat\&logo=none)](https://www.django-rest-framework.org/)
-* [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat\&logo=fastapi\&logoColor=white)](https://fastapi.tiangolo.com/)
-* [![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-lightgrey)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
-* [![LangChain](https://img.shields.io/badge/LangChain-python?style=flat\&logo=python\&logoColor=white)](https://python.langchain.com/)
-* [![LLM](https://img.shields.io/badge/LLM-Large%20Language%20Models-orange?style=flat\&logo=none)](https://en.wikipedia.org/wiki/Large_language_model)
-* [![SQL](https://img.shields.io/badge/SQL-Queries-important?style=flat\&logo=sqlite\&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-* [![MySQL](https://img.shields.io/badge/MySQL-01758F?style=flat\&logo=mysql\&logoColor=white)](https://www.mysql.com/)
-* [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql\&logoColor=white)](https://www.postgresql.org/)
-* [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)](https://react.dev/)
-* [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-* [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [![Bootstrap5](https://img.shields.io/badge/Bootstrap-5.0-563D7C?style=flat\&logo=bootstrap\&logoColor=white)](https://getbootstrap.com/)
-* [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat\&logo=jupyter\&logoColor=white)](https://jupyter.org/)
-* [![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)](https://git-scm.com/)
-* [![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)](https://code.visualstudio.com/)
-* [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat\&logo=pycharm\&logoColor=green)](https://www.jetbrains.com/pycharm/)
 
 ---
 
