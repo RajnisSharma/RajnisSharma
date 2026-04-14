@@ -5,10 +5,9 @@
   <a href="https://rajnisSharma.github.io/new-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
   </a>
-
-<a href="https://rajnisSharma.github.io/new-portfolio/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
-</a>
+  <a href="https://rajnisSharma.github.io/new-portfolio/" target="_blank" rel="noopener noreferrer">
+  Portfolio
+  </a>
   
   <a href="mailto:rajnishkumar81145@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
