@@ -2,7 +2,7 @@
   <h1>Hi there 👋 I'm <strong>RAJNISH KUMAR SHARMA</strong></h1>
   <p><em>Full Stack Python Developer | AI/GenAI Enthusiast | Django • React • FastAPI • LLM • RAG</em></p>
 
-  <a href="https://rajnissharma.github.io/new-portfolio/" target="_blank">
+  <a href="https://rajnissharma.github.io/new-portfolio/" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
   </a>
   <a href="mailto:rajnishkumar81145@gmail.com">
