@@ -55,7 +55,7 @@ Technologies I work with and have hands-on experience in. Click a badge to view 
 ---
 
 ## ✨ Featured Projects
-
+* **AI-Powered Customer Support Intelligence Bot** — An intelligent support bot that helps Customer Success Managers (CSMs) answer questions about sales calls and customer accounts using AI. Built with CrewAI, FastAPI, and RAG (Retrieval-Augmented Generation) architecture.
 * **Personal Finance Manager** — Full-stack Django + React application for income, expense, budget, and transaction management with authentication and CRUD operations.
 * **Library Management System** — Django and MySQL-based system for book issue/return, inventory tracking, and user management.
 * **Personal Portfolio** — Responsive portfolio website built with **HTML, CSS, Bootstrap, JavaScript, and React**.
